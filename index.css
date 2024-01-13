@@ -1,0 +1,43 @@
+h1{
+    display: flex;
+    justify-content: center;
+
+    color: orangered;
+    font-size: 10em;
+    margin: 0;
+    border-top: 5px ;
+    padding-top: 2px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.playername{
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+font-size: 3em;
+color: brown;
+
+}
+.player  {
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    height: 200px;
+    width: 200px;
+
+}
+html{
+    background-color:#B8E00D;
+}
